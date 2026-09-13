@@ -1,4 +1,4 @@
-import heroBanner from "../assets/hero-banner.webp";
+import heroBanner from "../assets/banner-stack.png";
 
 export default function Hero() {
   return (

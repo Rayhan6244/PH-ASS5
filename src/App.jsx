@@ -5,9 +5,9 @@ import Navbar from "./components/navbar";
 import Hero from "./components/hero";
 import Loader from "./components/loader";
 import TechGrid from "./components/TechGrid";
-import StackSidebar from "./components/StackSidebar";
+import StackSidebar from "./components/SideBar";
 import Footer from "./components/footer";
-import useTechnologies from "./hooks/useTechnologies";
+import useTechnologies from "./hooks/userTechnologies";
 
 export default function App() {
   const { technologies, loading } = useTechnologies();
