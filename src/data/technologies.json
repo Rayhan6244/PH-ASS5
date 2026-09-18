@@ -118,25 +118,5 @@
     "rating": 4.7,
     "difficulty": "Intermediate",
     "badge": "Containers"
-  },
-  {
-    "id": "git",
-    "name": "Git",
-    "category": "Tools",
-    "description": "A distributed version control system for tracking changes and collaborating on code.",
-    "icon": "https://icon.icepanel.io/Technology/svg/Git.svg",
-    "rating": 4.9,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Essential"
-  },
-  {
-    "id": "figma",
-    "name": "Figma",
-    "category": "Tools",
-    "description": "A collaborative interface design tool used to plan and prototype the UI before you build it.",
-    "icon": "https://icon.icepanel.io/Technology/svg/Figma.svg",
-    "rating": 4.8,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Design"
   }
 ]
